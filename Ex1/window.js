@@ -32,6 +32,7 @@ while(essais>0){
     var input = prompt("Enter un nombre:");
     if(input == nombre){
         window.alert("Vous avez gagner !!");
+        test=true;
         essais =0;
     }
     else {
