@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "bootstrap": "^5.3.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samira-Ben-Gara-Ali/TP1-WEB.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Samira-Ben-Gara-Ali/TP1-WEB/issues"
+  },
+  "homepage": "https://github.com/Samira-Ben-Gara-Ali/TP1-WEB#readme",
+  "description": ""
 }
